@@ -40,5 +40,5 @@ titanic = pd.read_csv("./data/titanic.csv")
 st.write(titanic)
 
 
-titanic = pd.read_csv("./data/gold.csv")
-st.write('gold')
+gold = pd.read_csv("./data/gold.csv")
+st.write(gold)
